@@ -258,9 +258,9 @@ const About = () => {
     }, 
     {
       id: 6,
-      name: 'Stephen Ngota',
+      name: 'John Katana',
       position: 'Treasurer',
-      bio: 'Stephen manages our finances and ensures transparent financial reporting for all our programs.',
+      bio: 'John manages our finances and ensures transparent financial reporting for all our programs and also generates reports..',
       image: '/images/kakwiri5.jpeg'
     },
     {

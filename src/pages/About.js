@@ -260,8 +260,8 @@ const About = () => {
       id: 6,
       name: 'John Katana',
       position: 'Treasurer',
-      bio: 'John manages our finances and ensures transparent financial reporting for all our programs and also generates reports..',
-      image: '/images/kakwiri5.jpeg'
+      bio: 'John manages our finances and ensures transparent financial reporting for all our programs.',
+      image: '/images/john.jpeg'
     },
     {
       id: 5,

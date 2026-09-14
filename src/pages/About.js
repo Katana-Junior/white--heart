@@ -6,7 +6,6 @@ import {
   FaHandsHelping,
   FaUsers,
   FaGlobeAmericas,
-  FaPhone,
 } from "react-icons/fa";
 
 // Common components

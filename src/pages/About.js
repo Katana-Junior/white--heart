@@ -96,7 +96,7 @@ const MissionSection = styled(Section)`
     border: none;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     transition: all 0.3s ease;
     text-align: center;
     padding: 40px 30px;
